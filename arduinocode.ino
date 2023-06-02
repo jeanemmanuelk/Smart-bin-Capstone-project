@@ -14,7 +14,7 @@ int distance;
 HX711 scale;
 float weight;
 
-const char* ssid = "Redmi Note 8 Pro"; // your local wifi ssid
+const char* ssid = ""; // your local wifi ssid
 const char* password = ""; // wifi password
 const char* host = "http://kjesens.xyz/jkouad96/post-esp-data.php"; // hostname
 
